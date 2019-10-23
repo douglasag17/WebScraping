@@ -2,5 +2,5 @@
 
 Desarrollado por:
 
-- Douglas Ardil Garces
+- Douglas Ardila Garces
 - Julian Andres Sanchez
